@@ -1,0 +1,5 @@
+com.gameloft.android.gdc
+com.oplus.games
+com.speedymovil.wire
+com.telcel.contenedor
+com.android.stk
