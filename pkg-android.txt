@@ -1,0 +1,15 @@
+com.android.egg
+com.android.bookmarkprovider
+com.android.providers.calendar
+com.android.carrierdefaultapp
+com.android.chrome
+com.android.cellbroadcastreceiver
+com.android.providers.partnerbookmarks
+com.android.contacts
+com.android.bips
+com.android.email.partnerprovider
+com.android.fmradio
+com.android.printspooler
+com.android.simappdialog
+com.android.apps.tag
+com.android.providers.userdictionary
