@@ -1,0 +1,8 @@
+com.android.egg
+com.android.bookmarkprovider
+com.android.providers.calendar
+com.android.chrome
+com.android.email.partnerprovider
+com.android.fmradio
+com.android.apps.tag
+com.android.providers.userdictionary
