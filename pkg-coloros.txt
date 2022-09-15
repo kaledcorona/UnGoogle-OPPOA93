@@ -16,3 +16,7 @@ com.coloros.smartsidebar
 com.coloros.video
 com.coloros.weather2
 com.coloros.weather.service
+com.coloros.lockassistant
+com.coloros.floatassistant
+com.coloros.backuprestore
+com.coloros.relax
