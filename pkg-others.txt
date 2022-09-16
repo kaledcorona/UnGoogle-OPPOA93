@@ -1,0 +1,6 @@
+com.handmark.expressweather
+com.amazon.mShop.android.shopping
+com.huawei.apptouch.waktiplay
+com.king.candycrushsaga
+com.twitter.android
+com.zhiliaoapp.musically

@@ -2,4 +2,11 @@ com.gameloft.android.gdc
 com.oplus.games
 com.speedymovil.wire
 com.telcel.contenedor
+com.telcel.imk
+com.globalhitss.claro.pay
+com.americamovil.claroshop
+com.dla.android
+com.rbt.android
+com.telcel.apps.unotv
 com.android.stk
+com.clarodrive.android
