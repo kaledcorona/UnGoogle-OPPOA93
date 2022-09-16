@@ -1,0 +1,10 @@
+com.coloros.calculator
+com.coloros.alarmclock
+com.coloros.compass2
+com.coloros.karaoke
+com.coloros.musiclink
+com.coloros.oshare
+com.coloros.soundrecorder
+com.coloros.weather2
+com.coloros.weather.service
+com.coloros.relax
